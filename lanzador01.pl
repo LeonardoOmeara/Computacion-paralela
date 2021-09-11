@@ -7,7 +7,7 @@
 $repeticiones = 30;
 @ejecutables = ("matricesApp");
 @matrizSize = ("100", "200", "400", "800", "1000", "1200", "2000", "4000");
-$path="/home/leonardo/Documentos/universidad/paralela/pipThreads/";
+$path="/home/labing/Documents/paralela/Computacion-paralela-main/pipThreads/";
 $cores = 1;
 
 foreach $exe (@ejecutables) {
